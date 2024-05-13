@@ -17,8 +17,6 @@ var modal_8 = document.getElementById("modal-8");
 var btn_8 = document.getElementById("btn-8");
 var modal_9 = document.getElementById("modal-9");
 var btn_9 = document.getElementById("btn-9");
-var modal_10 = document.getElementById("modal-10");
-var btn_10 = document.getElementById("btn-10");
 var modal_req = document.getElementById("modal-req");
 var btn_req = document.getElementById("btn-req");
 var modal_sel = document.getElementById("modal-sel");
@@ -54,9 +52,7 @@ btn_8.addEventListener("click", function() {
 btn_9.addEventListener("click", function() {
   modal_9.style.display = "block";
 });
-btn_10.addEventListener("click", function() {
-  modal_10.style.display = "block";
-});
+
 btn_req.addEventListener("click", function() {
   modal_req.style.display = "block";
 });
@@ -96,9 +92,7 @@ window.addEventListener("click", function(event) {
   if (event.target == modal_9) {
     modal_9.style.display = "none";
   }
-  if (event.target == modal_10) {
-    modal_10.style.display = "none";
-  }
+
   if (event.target == modal_req) {
     modal_req.style.display = "none";
   }
