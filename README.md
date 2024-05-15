@@ -21,7 +21,6 @@ sudo snap install --classic code
 
 ## Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutándose_
 
 1. Clona este repositorio en tu máquina local:
 
@@ -58,8 +57,6 @@ _Y repite_
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre cómo hacer deploy_
-
 Para desplegar se puede hacerlo en GitHub Pages:
 
 1. Ve a tu repositorio en GitHub.
@@ -68,8 +65,6 @@ Para desplegar se puede hacerlo en GitHub Pages:
 4. Guarda los cambios y tu sitio estará disponible en `https://tu-usuario.github.io/tu-repositorio/`.
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 - HTML - Lenguaje de marcado utilizado para estructurar la página web.
 - CSS - Hojas de estilo en cascada utilizadas para diseñar la página web.
